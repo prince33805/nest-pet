@@ -29,8 +29,18 @@
 ## Project setup
 
 ```bash
+run xampp apache , mysql
+setting database mypet
+      type: 'mysql',
+      host: 'localhost',
+      port: 3306,
+      username: 'root',
+      password: '',
+      database: 'mypet',  
+
 $ npm install
 ```
+
 
 ## Compile and run the project
 
