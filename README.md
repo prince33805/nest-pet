@@ -37,7 +37,7 @@ setting database mypet
       username: 'root',
       password: '',
       database: 'mypet',  
-
+create .env
 $ npm install
 ```
 
